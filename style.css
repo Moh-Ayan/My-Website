@@ -1,20 +1,22 @@
 html {
   height: 100%;
   width: 100%;
-
 }
 
-h1 {
-  text-align: center;
-  text-decoration: underline;
+td, th {
+  border: 3px solid #000000 ;
+
 }
-
-
-
-.p1 {
-  color: red;
+p{
+  color: #000000;
 }
-
-#p2 {
-  color: blue
+caption {
+  color: black;
+}
+body {
+  background-color: #8b89f0;
+}
+button {
+  background-color: #110de7;
+  color: white;
 }
